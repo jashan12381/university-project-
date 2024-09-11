@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(242, 255, 127);
+    margin-top: 10px;
+    margin-bottom:20px;
+    margin-left:100px ;
+    margin-right:45px ;
+    
+}
+h1{
+    color: #e30909 ;
+    font-size: 60px; 
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'algerian', 'Arial Narrow';
+}
+h2{
+    color:#165e08;
+    font-size:40px;
+    font-family: Times, serif;
+}
+p{
+    color: rgb(253, 139, 9);
+    font-size: 30px;
+    font-family: 'Baguet Script', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+i{
+    color: rgb(25, 197, 10);
+}
+a{
+    color: #0ab8e4;
+    font-size: 35px;
+} 
